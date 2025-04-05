@@ -1,3 +1,5 @@
+#I NO LONGER USE THIS CUSTOM Dockerfile FILE, BUT A customstart.sh INSTEAD
+
 FROM debian:buster-slim
 
 ARG APP_VERSION
